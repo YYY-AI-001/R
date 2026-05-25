@@ -3,6 +3,10 @@
 更新时间：2026-05-25  
 项目定位：围绕 AIGC 学习、AI 生图、AI 视频、RunningHub 工作流推广、公开课和知识星球沉淀的内容型副业。
 
+相关 PRD：
+
+- [源力魔方副业系统 PRD v0.1](prd/sourcecube-side-business-prd/README.md)
+
 ## 1. 项目主线
 
 当前副业品牌暂定为「源力魔方 / SourceCube」。

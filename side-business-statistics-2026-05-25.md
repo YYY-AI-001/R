@@ -146,7 +146,7 @@
 收益记录：
 
 - runninghub.cn：累计收入约 473.95 元，可提现约 49.54 元，近 7 日收益约 9.59 元。
-- runninghub.ai：Total Earnings 62.49 美元，Pending Withdrawal 1.37 美元。
+- runninghub.ai：累计收益约 69 美元。
 - 注意：`.cn` 人民币收入和 `.ai` 美元收入不要混算。
 
 ## 3. 提示词库与资产库统计
